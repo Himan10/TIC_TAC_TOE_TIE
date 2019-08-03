@@ -13,11 +13,11 @@ COMP_MOVES = BOARD_VALUE.keys()
 COMP_MOVES = list(COMP_MOVES)
 
 
-def computer_play(turn):
+def computer_play(*turn):
     """ Computer move on the board """
-    comp_val = moves.random_moves(BOARD_VALUE, COMP_MOVES)
+    comp_val = moves.random_moves(BOARD_VALUE, COMP_MOVES, turn[1])
     print(" Computer Move : ", comp_val)
-    BOARD_VALUE[comp_val] = turn
+    BOARD_VALUE[comp_val] = turn[0]
     del COMP_MOVES[COMP_MOVES.index(comp_val)]
 
 
@@ -71,7 +71,7 @@ def main():
                 user_play(user_turn)
                 win = winner(user_turn)
             else:
-                computer_play(comp_turn)
+                computer_play(comp_turn, user_turn)
                 win = winner(comp_turn)
             print_board()
             if win:
