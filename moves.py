@@ -2,9 +2,8 @@
 
 import random
 
-def random_moves(board, comp_moves):
+def random_moves(board, comp_moves, turn):
     """ Making a Move """
-    turn = "  x  "
     corner = [1, 3, 7, 9]
     #side = [2, 4, 6, 8]
 
