@@ -45,9 +45,9 @@ and now our intelligent species(Computer) can look up on these patterns to make 
 Those who're familiar with conditional statements can easily figure it out how our computer block the 1st position and it does the same for upcoming patterns... 
 
    # Some Advanced Algorithms
-   #  -> Alpha-Beta Pruning - https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning
-   #  -> Min-Max Algorithm  - https://en.wikipedia.org/wiki/Minimax
+    -> Alpha-Beta Pruning - https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning
+    -> Min-Max Algorithm  - https://en.wikipedia.org/wiki/Minimax
    and let me tell you clearly that what've done isn't have any advanced algorithms or anything. it's just a bunch of large conditional statements but i'm on my way to upgrade it and making an advanced version of it i.e., 
-   # Ultimate TIC-TAC-TOE   - https://en.wikipedia.org/wiki/Ultimate_tic-tac-toe
+    Ultimate TIC-TAC-TOE   - https://en.wikipedia.org/wiki/Ultimate_tic-tac-toe
    
  THANK YOU 
