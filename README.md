@@ -49,7 +49,7 @@ Those who're familiar with conditional statements can easily figure it out how o
 
    -> Min-Max Algorithm  - https://en.wikipedia.org/wiki/Minimax
    
-and let me tell you clearly that what've done isn't have any advanced algorithms or anything. it's just a bunch of large conditional statements but i'm on my way to upgrade it and making an advanced version of it i.e., 
+and let me tell you clearly that what've done isn't have any advanced algorithms or anything. it's just a bunch of large conditional statements and the most important thing is, still the code isn't too much accurate to predict and block the moves which results in, BIG-BOO(user) can win on some cases but i'm on my way to upgrade it and making an advanced version of it i.e., 
 
    Ultimate TIC-TAC-TOE   - https://en.wikipedia.org/wiki/Ultimate_tic-tac-toe
    
